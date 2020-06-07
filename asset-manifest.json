@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/vetrina-app/static/css/main.5facb584.chunk.css",
+    "main.js": "/vetrina-app/static/js/main.c5f4b750.chunk.js",
+    "main.js.map": "/vetrina-app/static/js/main.c5f4b750.chunk.js.map",
+    "runtime-main.js": "/vetrina-app/static/js/runtime-main.a20d0fb3.js",
+    "runtime-main.js.map": "/vetrina-app/static/js/runtime-main.a20d0fb3.js.map",
+    "static/css/2.7a8c10a3.chunk.css": "/vetrina-app/static/css/2.7a8c10a3.chunk.css",
+    "static/js/2.1cb06c5d.chunk.js": "/vetrina-app/static/js/2.1cb06c5d.chunk.js",
+    "static/js/2.1cb06c5d.chunk.js.map": "/vetrina-app/static/js/2.1cb06c5d.chunk.js.map",
+    "index.html": "/vetrina-app/index.html",
+    "precache-manifest.6f9fbf446b1562ab2b0435c9b5738cbd.js": "/vetrina-app/precache-manifest.6f9fbf446b1562ab2b0435c9b5738cbd.js",
+    "service-worker.js": "/vetrina-app/service-worker.js",
+    "static/css/2.7a8c10a3.chunk.css.map": "/vetrina-app/static/css/2.7a8c10a3.chunk.css.map",
+    "static/css/main.5facb584.chunk.css.map": "/vetrina-app/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.1cb06c5d.chunk.js.LICENSE.txt": "/vetrina-app/static/js/2.1cb06c5d.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/vetrina-app/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/bunker.jpg": "/vetrina-app/static/media/bunker.a67a2711.jpg",
+    "static/media/all.min.css": "/vetrina-app/static/media/fa-solid-900.ec763292.svg",
+    "static/media/ph14.jpeg": "/vetrina-app/static/media/ph14.5be24483.jpeg",
+    "static/media/ph15.jpeg": "/vetrina-app/static/media/ph15.269acad7.jpeg",
+    "static/media/ph7.jpeg": "/vetrina-app/static/media/ph7.1192ab44.jpeg",
+    "static/media/ph9.jpeg": "/vetrina-app/static/media/ph9.74a7f58a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a20d0fb3.js",
+    "static/css/2.7a8c10a3.chunk.css",
+    "static/js/2.1cb06c5d.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.c5f4b750.chunk.js"
+  ]
+}
